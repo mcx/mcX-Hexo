@@ -69,8 +69,8 @@ theme: tranquilpeak
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: netlify
-  token: 78ce15a22edc16249ee2b83c0777172e2f932b4cfd0132257cd4994c533184e6
-  site_id: b5fb89cc-7acd-42d9-9504-24f8413dae58
+  token: 648e83204a779616b738d561e0f9df86f33afc1515ea6b50f3aa89b78cb131b4
+  site_id: d19a016b-0903-4a76-930b-65a6df689fbe
 
 # RSS feed
 ## https://github.com/LouisBarranqueiro/hexo-theme-tranquilpeak/blob/master/docs/user.md
