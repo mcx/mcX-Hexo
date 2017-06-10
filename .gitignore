@@ -46,11 +46,15 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
+# =========================
 # Hexo specific gitignores
-db.json 
-# db.json messes up on hexo generate, but is fixed when using hexo deploy?
+# =========================
 *.log
-node_modules/
-public/
 .deploy*/
+
+# db.json messes up on hexo generate, but is fixed when using hexo deploy?
+db.json
+ 
+node_modules/
+# public/
 
