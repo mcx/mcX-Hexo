@@ -45,9 +45,12 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
-# /public
-# /node_modules
 
+# Hexo specific gitignores
+db.json 
 # db.json messes up on hexo generate, but is fixed when using hexo deploy?
-db.json
+*.log
+node_modules/
+public/
+.deploy*/
 
