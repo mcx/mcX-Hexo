@@ -49,5 +49,5 @@ Temporary Items
 # /node_modules
 
 # db.json messes up on hexo generate, but is fixed when using hexo deploy?
-# db.json
+db.json
 
