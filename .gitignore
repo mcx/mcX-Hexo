@@ -47,3 +47,7 @@ Temporary Items
 .apdisk
 /public
 /node_modules
+
+# db.json messes up on hexo generate, but is fixed when using hexo deploy?
+db.json
+
