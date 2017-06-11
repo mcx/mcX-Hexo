@@ -51,10 +51,11 @@ Temporary Items
 # =========================
 *.log
 .deploy*/
+node_modules/
 
 # db.json messes up on hexo generate, but is fixed when using hexo deploy?
 db.json
  
-node_modules/
+# gitignore of public folder messes up netlify continuous deployment with clean cache
 # public/
 
