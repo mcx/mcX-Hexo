@@ -56,6 +56,6 @@ node_modules/
 # db.json messes up on hexo generate, but is fixed when using hexo deploy?
 db.json
  
-# gitignore of public folder messes up netlify continuous deployment with clean cache
+# gitignore of public folder messes up netlify continuous deployment with 'clear build cache' option
 # public/
 
